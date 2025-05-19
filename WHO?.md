@@ -1,5 +1,5 @@
-🛰️ she/her/hers
-🗺️ north american
+- 🛰️ she/her/hers
+- 🗺️ north american
 
 <!---
 cxmilion/cxmilion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
